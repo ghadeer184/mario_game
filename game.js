@@ -15,7 +15,7 @@ const ENEMY_SPEED = 20
 
 let isJumping = true
 
-loadRoot('/sprites/')
+loadRoot('https://ghadeer184.github.io/mario_game/sprites/')
 loadSprite('coin', 'wbKxhcd.png')
 loadSprite('evil-shroom', 'KPO3fR9.png')
 loadSprite('brick', 'pogC9x5.png')
